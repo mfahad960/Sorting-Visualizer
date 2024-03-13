@@ -24,6 +24,7 @@ The data after sorting is represented as follows:
 
 **Conclusion:**
 The project allows us to represent how each algorithm behaves for a set of data. Some are quicker than others, like counting, radix, quick and heap sorts, while others like bubble sort are extremely slower. This can be easily concluded by monitoring the time complexities of every algorithm.
-References:
-Python Documentation: https://www.python.org/doc/
-Tkinter Documentation: https://docs.python.org/3/library/tkinter.html#
+
+**References:**
+- Python Documentation: https://www.python.org/doc/
+- Tkinter Documentation: https://docs.python.org/3/library/tkinter.html#
